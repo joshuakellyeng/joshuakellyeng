@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuakellyeng&show_icons=true&locale=en" alt="joshuakellyeng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuakellyeng&" alt="joshuakellyeng" /></p>
+
+https://www.codewars.com/users/joshuakellyeng/badges/large
