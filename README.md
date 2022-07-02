@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuakellyeng&label=Profile%20views&color=0e75b6&style=flat" alt="joshuakellyeng" /> </p>
 
+
 <p align="left"> <a href="https://twitter.com/joshuakellyeng" target="blank"><img src="https://img.shields.io/twitter/follow/joshuakellyeng?logo=twitter&style=for-the-badge" alt="joshuakellyeng" /></a> </p>
-<p><img align='left' src="https://www.codewars.com/users/joshuakellyeng/badges/large" alt="codewars ranking"/></p>  
+
+<p align="left"> <a href="https://www.codewars.com/users/joshuakellyeng" target="blank"><img src="https://www.codewars.com/users/joshuakellyeng/badges/large" alt="codewars ranking" /></a> </p>
+
 
 - 🔭 I’m currently working on [Left Bank Burger Bar Web App](https://github.com/joshuakellyeng/lbbb-frontend)
 
