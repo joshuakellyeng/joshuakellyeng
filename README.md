@@ -1,1 +1,1 @@
-I've built 3 consumer applications, pinned below.
+Here are my 3 main projects:
